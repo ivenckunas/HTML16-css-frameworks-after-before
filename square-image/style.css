@@ -1,0 +1,13 @@
+body {
+  background-color: #f3f3f3;
+}
+
+.img-box {
+  height: 250px;
+  width: 250px;
+  border: 1px solid #000;
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
